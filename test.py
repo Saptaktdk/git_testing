@@ -11,4 +11,5 @@ print(f"Node Name: {node_name}")
 print(f"Release: {release}")
 print(f"Version: {version}")
 
-print(f"This is a new change")
+print(f"This is feature/test2")
+
